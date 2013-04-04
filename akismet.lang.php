@@ -6,7 +6,7 @@
  * $Id$
  */
 
-$l['spam'] = "Spam";
+$l['spam'] = "Šlamštas";
 
 $l['post_spam_success'] = "The post(s) has been marked as spam successfully.";
 $l['thread_spam_success'] = "The thread has been marked as spam successfully.";
